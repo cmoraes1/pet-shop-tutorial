@@ -1,4 +1,5 @@
-Run Application: npm run dev
+Run App:
+npm run dev
 
 Requirements:
 - MetaMask (or another type of browser extension) to import/create wallet in browser
